@@ -34,3 +34,22 @@ This project analyzes customer behavior to identify key drivers of churn and imp
 - Implement personalized offers for at-risk users
 
 ## 📂 Project Structure
+![Dashboard](dashboard/dashboard.png)
+## 📈 Business Problem
+
+E-commerce platforms face high customer churn due to low engagement and cart abandonment.  
+This project aims to identify key behavioral patterns that lead to churn.
+
+## 🔍 Approach
+
+- Cleaned and processed customer interaction data
+- Performed exploratory data analysis (EDA)
+- Built customer segments based on purchase behavior
+- Identified at-risk users using engagement and abandonment metrics
+- Developed a Power BI dashboard for visualization
+
+## 🎯 Impact
+
+- Identified key churn drivers such as cart abandonment and low engagement  
+- Provided actionable recommendations for improving retention  
+- Enabled data-driven decision-making through dashboard insights  
